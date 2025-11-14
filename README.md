@@ -74,7 +74,7 @@ I'm a **Computer Science student** at **Institut Supérieur de Gestion de Sousse
 > Full-stack personal portfolio showcasing projects and technical skills
 - **Tech Stack:** React • Ant Design
 - **Features:** Responsive design, multi-language support (EN/FR), smooth animations
-- 🔗 [View Code](https://github.com/azizlatrache/portfolio)
+- 🔗 [View Code](https://github.com/latracheaziz/portfolio)
 
 ---
 
