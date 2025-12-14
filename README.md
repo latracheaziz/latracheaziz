@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** at **Institut Supérieur de Gestion de Sousse (ISGS)**, passionate about building scalable and user-friendly web applications. Currently seeking an **end-of-study internship** to apply and expand my technical expertise in full-stack development.
+I'm a **Business computing student** at **Institut Supérieur de Gestion de Sousse (ISGS)**, passionate about building scalable and user-friendly web applications. Currently seeking an **end-of-study internship** to apply and expand my technical expertise in full-stack development.
 
 - 🎓 Pursuing **Bachelor's Degree in BI Management IT** at ISGS
 - 🌍 Based in **Sousse, Tunisia**
