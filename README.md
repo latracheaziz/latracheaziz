@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aziz+Latrache;Computer+Science+Student;Full+Stack+Developer;Open+to+Internship+Opportunities!" alt="Typing SVG" />
+  <!-- GIF Friends (Joey & Rachel kiss) -->
+  <img src="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" alt="Friends Joey and Rachel kiss" width="450"/>
 </div>
 
-<!-- GIF Phoebe Buffay -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Phoebe Buffay Singing" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aziz+Latrache;Computer+Science+Student;Full+Stack+Developer;Open+to+Internship+Opportunities!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,11 +23,11 @@
 
 I'm a **Business computing student** at **Institut Supérieur de Gestion de Sousse (ISGS)**, passionate about building scalable and user-friendly web applications. Currently seeking an **end-of-study internship** to apply and expand my technical expertise in full-stack development.
 
-- 🎓 Pursuing **Bachelor's Degree in BI Management IT** at ISGS
-- 🌍 Based in **Sousse, Tunisia**
-- 💼 Looking for **internship opportunities** in web development
-- 🚀 Passionate about **JavaScript**, **React**, **Node.js**, and **MongoDB**
-- 🤝 Active volunteer at **Leo Club Sousse Star**
+- 🎓 Pursuing **Bachelor's Degree in BI Management IT** at ISGS  
+- 🌍 Based in **Sousse, Tunisia**  
+- 💼 Looking for **internship opportunities** in web development  
+- 🚀 Passionate about **JavaScript**, **React**, **Node.js**, and **MongoDB**  
+- 🤝 Active volunteer at **Leo Club Sousse Star**  
 - 📧 Reach me at: **azizlatrache5@gmail.com**
 
 ---
@@ -70,83 +70,33 @@ I'm a **Business computing student** at **Institut Supérieur de Gestion de Sous
 ## 🚀 Featured Projects
 
 ### 🎯 [Studyfytn Platform](https://app.studyfytn.com/login)
-> Collaborative project enhancing student, class, and grade management workflows
-- **Tech Stack:** React • Node.js • MongoDB
-- **Role:** Contributed to platform enhancement and workflow optimization
-- 🔗 [Live Demo](https://app.studyfytn.com/login)
+> Collaborative project enhancing student, class, and grade management workflows  
+- **Tech Stack:** React • Node.js • MongoDB  
+- **Role:** Contributed to platform enhancement  
 
 ### 💼 [Personal Portfolio](https://github.com/azizlatrache/portfolio)
-> Full-stack personal portfolio showcasing projects and technical skills
-- **Tech Stack:** React • Ant Design
-- **Features:** Responsive design, multi-language support (EN/FR), smooth animations
-- 🔗 [View Code](https://latracheaziz.github.io/portfolio/)
+> Full-stack personal portfolio showcasing projects and technical skills  
+- **Tech Stack:** React • Ant Design  
+- **Features:** Responsive design, multi-language support (EN/FR)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizlatrache&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=a9b1d6" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizlatrache&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&text_color=a9b1d6" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizlatrache&theme=tokyonight&hide_border=true&background=1a1b27&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azizlatrache&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizlatrache&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea" alt="Top Languages" height="170"/>
 </div>
 
 ---
 
-## 🌐 Languages
-
-- 🇹🇳 **Arabic** - Native
-- 🇫🇷 **French** - Intermediate
-- 🇬🇧 **English** - Intermediate
-- 🇮🇹 **Italian** - Intermediate
-
----
-
-## 🤝 Volunteer Experience
-
-### 🌟 Leo Club Sousse Star
-**Member** • *2025 - Present*
-- 📚 Organized back-to-school events for community support
-- 🏥 Contributed to health caravans with logistics and participant support
-- 🎉 Coordinated activities for Eid Sghir celebrations
-
-### 🌟 Leo Club Omega Kantaoui
-**Member** • *2023 - 2025*
-- 📚 Organized back-to-school events for community support
-- 🏥 Contributed to health caravans with logistics and participant support
-- 🎉 Coordinated activities for Eid Sghir celebrations
-
----
-
-## 🎯 Currently Looking For
-
-- 💼 **End-of-Study Internship** in Full-Stack Web Development
-- 🌱 Opportunities to work on **innovative projects**
-- 🤝 Collaboration with **industry professionals**
-- 📈 Environments focused on **learning and growth**
-
----
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:azizlatrache5@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/azizlatrache">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="mailto:azizlatrache5@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/azizlatrache"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=100&section=footer" width="100%"/>
-</div>
 
 ---
 
-<p align="center">
-  <i>⭐ From <a href="https://github.com/azizlatrache">azizlatrache</a> - Feel free to reach out for internship opportunities or collaboration!</i>
-</p>
+⭐ *From [azizlatrache](https://github.com/azizlatrache)* — Always open to new opportunities & collaborations!
